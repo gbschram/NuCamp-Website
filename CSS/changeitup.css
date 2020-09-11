@@ -7,11 +7,11 @@ h1, h2, h3 {
 }
 
 h2 {
-    color: #a31818;
+    color: #c53030;
 }
 
 header h2 {
-    color: #CEC8FF;
+    color: #ffc8c8;
 }
 
 .site-footer {
@@ -22,7 +22,7 @@ header h2 {
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    background-image: linear-gradient(to right, #e60606, #920303, #030000);
     color: white;
 }
 
@@ -35,7 +35,7 @@ header h2 {
 }
 
 .navbar {
-    background-color: #901CAD;
+    background-color: #050500;
 }
 
 .tab-content {
@@ -48,10 +48,14 @@ header h2 {
 }
 
 .carousel {
-    border: solid #5637DD;
+    border: solid #dd3737;
 }
 
 #carouselButton {
     z-index: 100;
-    }
+}
 
+.button {
+    color: #920303
+}
+   
