@@ -53,5 +53,9 @@ header h2 {
 
 #carouselButton {
     z-index: 100;
-    }
+}
+
+.form-card {
+    border: none;
+}
 
