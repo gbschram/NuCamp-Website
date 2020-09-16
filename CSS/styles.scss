@@ -27,7 +27,7 @@ header {
 }
 
 .site-footer {
-    background-image: linear-gradient(#ffc8c8, white);
+    background-image: linear-gradient($color-pale, white);
     padding: 20px 0;
 }
 
@@ -50,11 +50,10 @@ header {
     background-color: $color-mid;
 }
 
-.tab-content {
-    border: 1px solid #DDD;
-    border-top: none;
-    padding: 10px;
+.carousel {
+    border: solid $color-secondary;
 }
+
 .carousel-caption {
     background-color: $color-black-transparent;
 }
